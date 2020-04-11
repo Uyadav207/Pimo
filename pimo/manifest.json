@@ -1,0 +1,20 @@
+{
+    "name": "Pimo",
+    "version": "1.0.0",
+    "description": "Allows the user to Change Background color of LinkedIn, stackoverflow and Google Products.",
+    "manifest_version": 2,
+    "icons": {"126": "icon_126.png"},
+    "browser_action": {
+      "default_popup": "./popup.html",
+      "default_title": "Open the popup",
+      "default_icon": "icon.png"
+    },
+    "content_scripts": [
+      {
+        "js": ["content.js"],
+        "css": ["content.css"],
+        "matches": ["https://*.google.co.in/*", "https://*.google.com/*", "https://www.linkedin.com/*","https://www.flaticon.com/*", "https://stackoverflow.com/*"]
+      }
+    ],
+    "permission": ["activeTab"]
+  }
