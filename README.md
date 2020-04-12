@@ -32,4 +32,4 @@ Allows the user to Change Background color of LinkedIn, StackOverflow and Google
 
 💖💖❤✔
 # Thank U to Download...💖
-![](https://github.com/Uyadav207/Pimo/tree/master/pimo/images/heart.png)
+<img src="./pimo/images/heart.png">
