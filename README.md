@@ -23,13 +23,15 @@ Allows the user to Change Background color of LinkedIn, StackOverflow and Google
 
 # After Downloading Appeareance 💖💖❤ ✔✔✔
 * Check your status bar, it would apper like this...if Not raise an issue in repo...
-![](https://github.com/Uyadav207/Pimo/tree/master/pimo/images/StatusBarPimo.png)
+<img src="./pimo/images/StatusBarPimo.png">
+
 
 # ScreenShots AfterEffects 👏👏👏
-![](https://github.com/Uyadav207/Pimo/tree/master/pimo/images/Linkedin.png)
-![](https://github.com/Uyadav207/Pimo/tree/master/pimo/images/calender.png)
-![](https://github.com/Uyadav207/Pimo/tree/master/pimo/images/GoogleCalender.png)
+<img src="./pimo/images/Linkedin.png">
+<img src="./pimo/images/calender.png">
+<img src="./pimo/images/GoogleCalender.png">
+
 
 💖💖❤✔
 # Thank U to Download...💖
-<img src="./pimo/images/heart.png">
+<img src="./pimo/images/heart.png" width="200" height ="200">
