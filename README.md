@@ -19,17 +19,17 @@ Allows the user to Change Background color of LinkedIn, StackOverflow and Google
 # Download Pimo 
 
 * Checkout the Link : [PIMO:Chrome-Extension](https://chrome.google.com/webstore/detail/pimo/gcigjkpkbodoajlpcgjmplhodcjmdbfc?utm_source=gmail) 
-![](https://github.com/Uyadav207/Pimo/pimo/images/heart.png)
+![](https://github.com/Uyadav207/Pimo/tree/master/pimo/images/heart.png)
 
-# After Downloading Appereance 💖💖❤ ✔✔✔
+# After Downloading Appeareance 💖💖❤ ✔✔✔
 * Check your status bar, it would apper like this...if Not raise an issue in repo...
-![](https://github.com/Uyadav207/Pimo/pimo/images/StatusBarPimo.png)
+![](https://github.com/Uyadav207/Pimo/tree/master/pimo/images/StatusBarPimo.png)
 
 # ScreenShots AfterEffects 👏👏👏
-![](https://github.com/Uyadav207/Pimo/pimo/images/Linkedin.png)
-![](https://github.com/Uyadav207/Pimo/pimo/images/calender.png)
-![](https://github.com/Uyadav207/Pimo/pimo/images/GoogleCalender.png)
+![](https://github.com/Uyadav207/Pimo/tree/master/pimo/images/Linkedin.png)
+![](https://github.com/Uyadav207/Pimo/tree/master/pimo/images/calender.png)
+![](https://github.com/Uyadav207/Pimo/tree/master/pimo/images/GoogleCalender.png)
 
 💖💖❤✔
 # Thank U to Download...💖
-![](https://github.com/Uyadav207/Pimo/pimo/images/heart.png)
+![](https://github.com/Uyadav207/Pimo/tree/master/pimo/images/heart.png)
