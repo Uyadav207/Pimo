@@ -22,7 +22,7 @@ Allows the user to Change Background color of LinkedIn, StackOverflow and Google
 ![](https://github.com/Uyadav207/Pimo/tree/master/pimo/images/heart.png)
 
 # After Downloading Appeareance 💖💖❤ ✔✔✔
-* Check your status bar, it would apper like this...if Not raise an issue in repo...
+* Check your status bar, if it seems like this then U did a great Job else retry ... Or Raise an issue or bug.
 <img src="./pimo/images/StatusBarPimo.png">
 
 
@@ -33,5 +33,5 @@ Allows the user to Change Background color of LinkedIn, StackOverflow and Google
 
 
 💖💖❤✔
-# Thank U to Download...💖
+# ThankYou for Downloading...💖
 <img src="./pimo/images/heart.png" width="200" height ="200">
