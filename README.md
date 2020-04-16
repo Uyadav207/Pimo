@@ -1,10 +1,10 @@
 <p align="center">
   <a>
-    <img src="https://img.icons8.com/plasticine/100/000000/chrome.png"/> <img src="https://img.icons8.com/plasticine/100/000000/plus-math.png" styles="margin-bottom:50px"/> <img src="./pimo/images/heart.png" width = "100px"/>
+    <img src="https://img.icons8.com/plasticine/100/000000/chrome.png"/> <img src="https://img.icons8.com/plasticine/100/000000/plus-math.png" /> <img src="./pimo/images/heart.png" width = "100px"/>
   </a>
 </p>
 <h1 align="center">
-  Weatherly- A React App
+  Pimo
 </h1>
 
 <p align="center">
