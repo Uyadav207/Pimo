@@ -52,4 +52,4 @@ Allows the user to Change Background color of LinkedIn, StackOverflow and Google
 
 💖💖❤✔
 # ThankYou for Downloading...💖
-<img src="./pimo/images/heart.png" width="200" height ="200">
+<img src="./pimo/images/heart.png" width="200" height ="200"
